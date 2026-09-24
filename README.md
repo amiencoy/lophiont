@@ -27,3 +27,7 @@ Use issues for design proposals and integration requirements. Include the intend
 ## Licensing
 
 An implementation license remains to be selected.
+
+---
+
+<p align="center"><sub>Built with code, coffee, and a healthy dislike of repetitive work.</sub></p>
