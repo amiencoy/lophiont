@@ -1,6 +1,6 @@
 # Lophiont
 
-The planned **parabiotic carrier for Lophiarch**, formerly **Angler Ghost**.
+The planned **parabiotic carrier for Lophiarch**, formerly **AnglerGhost**.
 
 ## Status
 
@@ -8,7 +8,7 @@ Design-stage project. This repository contains initial project documentation, no
 
 ## Purpose
 
-Provide a lightweight attached carrier connecting [Lophiarch](https://github.com/amiencoy/lophiarch) to external agents and graph systems. The original Angler Ghost concept focused on a BloodHound bridge; that remains a planned integration.
+Provide a lightweight attached carrier connecting [Lophiarch](https://github.com/amiencoy/lophiarch) to external agents and graph systems. The original AnglerGhost concept focused on a BloodHound bridge; that remains a planned integration.
 
 ## Initial roadmap
 
